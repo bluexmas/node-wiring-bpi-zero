@@ -1,0 +1,26 @@
+{
+  "name": "wiring-bpi",
+  "version": "1.1.2",
+  "description": "Bindings to wiringPi",
+  "main": "lib/exports.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "install": "/bin/bash ./install.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:andyhu/node-wiring-bpi.git"
+  },
+  "keywords": [
+    "wiringPi",
+    "gpio",
+    "banana pi",
+    "pi",
+    "bananapi"
+  ],
+  "author": "Igor Soarez <igorsoarez@gmail.com>",
+  "contributors": [
+    "Leandre Gohy <leandre.gohy@hexeo.be>"
+  ],
+  "license": "BSD"
+}
