@@ -16,4 +16,4 @@ $ npm install node-wiring-bpi-zero
 $ sudo node node-wiring-bpi-zero/examples/blink.js 
 
 # 블로그
-http://bluexmas.tistory.com
+http://bluexmas.tistory.com/category/OS/Banana%20Pi%20
