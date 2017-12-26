@@ -1,3 +1,9 @@
+# 참고 사이트
+https://github.com/WiringPi/WiringPi<br/>
+https://github.com/andyhu/node-wiring-bpi<br/>
+https://github.com/WiringPi/WiringPi-Node<br/>
+https://github.com/demchenkoe/node-wiring-op
+
 # node-wiring-bpi-zero
 BPI-M2 ZERO 용 node.js gpio 패키지
 
