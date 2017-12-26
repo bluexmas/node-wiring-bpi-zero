@@ -16,7 +16,7 @@ $ npm install node-wiring-bpi-zero
 $ sudo node node-wiring-bpi-zero/examples/blink.js
 
 # 데모 실행 영상
-<iframe width="640" height="360" src="https://www.youtube.com/embed/cC1rCjsRGkc" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/cC1rCjsRGkc/0.jpg)](https://www.youtube.com/watch?v=cC1rCjsRGkc)
 
 # 블로그
 http://bluexmas.tistory.com/category/OS/Banana%20Pi%20
