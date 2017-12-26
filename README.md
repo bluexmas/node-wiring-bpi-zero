@@ -1,10 +1,11 @@
 # node-wiring-bpi-zero
-BPI-M2 ZERO¿ë node.js gpio ÆĞÅ°Áö
+BPI-M2 ZERO ìš© node.js gpio íŒ¨í‚¤ì§€
 
-# ¼³Ä¡
+# ì„¤ì¹˜
 $ git clone https://github.com/bluexmas/node-wiring-bpi-zero.git
 $ cd node-wiring-bpi-zero/
 $ npm install
 
-# µ¥¸ğ ½ÇÇà
+# ë°ëª¨ ì‹¤í–‰
 $ sudo node examples/blink.js
+	

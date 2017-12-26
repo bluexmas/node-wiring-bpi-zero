@@ -1,5 +1,5 @@
 // Example of using PWM
-var wpi = require('wiring-pi');
+var wpi = require('wiring-pi-zero');
 var async = require('async');
 
 wpi.setup();

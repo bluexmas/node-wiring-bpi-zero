@@ -1,4 +1,4 @@
-var wpi = require('wiring-bpi');
+var wpi = require('wiring-bpi-zero');
 
 //var str = wpi.world()
 //console.log("str : " + str)
