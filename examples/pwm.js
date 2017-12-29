@@ -1,11 +1,12 @@
 // Example of using PWM
-var wpi = require('wiring-pi-zero');
+var wpi = require('wiring-bpi-zero');
 var async = require('async');
 
 wpi.setup();
 
-var pin = 1;
+var pin = 7;
 wpi.pinMode(pin, wpi.PWM_OUTPUT);
+//wpi.pwmSetRange(1024);
 
 async.series([
   function (cb) {
@@ -13,14 +14,14 @@ async.series([
     cb();
   },
   function (cb) {
-    setTimeout(cb, 1000);
+    setTimeout(cb, 3000);
   },
   function (cb) {
     wpi.pwmWrite(pin, 1023);
     cb();
   },
   function (cb) {
-    setTimeout(cb, 1000);
+    setTimeout(cb, 3000);
   },
   function (cb) {
     wpi.pwmWrite(pin, 0);
